@@ -11,4 +11,3 @@ def to_title(word):
     return " ".join(result)
 
 
-print(to_title("jon konor"))
